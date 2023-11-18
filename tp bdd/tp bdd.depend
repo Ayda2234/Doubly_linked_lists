@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653075607 source:c:\users\ram com\desktop\tp bdd\main.c
+	<stdio.h>
+	<stdlib.h>
+
